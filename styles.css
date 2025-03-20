@@ -1,0 +1,33 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: bisque;
+    border: 0px;
+}
+
+.header {
+    text-align: center;
+    padding: 20px;
+}
+
+.title {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+.menu {
+    background-color: coral;
+    text-align: center;
+    font-size: 28px;
+    padding: 5px;
+    margin: 0px;
+    box-sizing: border-box;
+    width: 100%;
+}
+
+
+.recipes {
+    padding: 30px 50px;
+}
